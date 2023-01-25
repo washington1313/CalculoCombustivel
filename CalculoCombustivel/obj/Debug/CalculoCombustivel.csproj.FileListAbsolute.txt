@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\bin\Debug\CalculoCombustivel.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\bin\Debug\CalculoCombustivel.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\bin\Debug\CalculoCombustivel.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\obj\Debug\CalculoCombustivel.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\obj\Debug\CalculoCombustivel.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\obj\Debug\CalculoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\obj\Debug\CalculoCombustivel.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoCombustivel\CalculoCombustivel\obj\Debug\CalculoCombustivel.pdb
